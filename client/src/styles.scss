@@ -1,1 +1,54 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap");
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Nunito Sans";
+}
+
+button {
+  padding: 0.3rem 0.5rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.dark {
+  background-color: #333;
+  color: #fff;
+
+  .header {
+    background-color: #444;
+    color: #fff;
+  }
+
+  button {
+    background-color: #444;
+    color: #fff;
+
+    &:hover {
+      background-color: #555;
+    }
+  }
+
+  h1 {
+    color: #fff;
+  }
+}
+
+.light {
+  background-color: #fff;
+  color: #333;
+
+  .header {
+    background-color: #eaeaea;
+    color: #333;
+  }
+
+  button {
+    border-color: #d2d2d2;
+    color: gray;
+  }
+}
