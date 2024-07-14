@@ -1,9 +1,18 @@
-import { Injectable } from '@angular/core';
+import { Injectable, signal } from '@angular/core';
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root',
 })
 export class ThemeService {
+  isDark = signal<boolean>(false);
 
-  constructor() { }
+  constructor() {}
+
+  setTheme(theme: boolean) {
+    this.isDark.set(theme);
+  }
+
+  updateTheme() {
+    this.isDark.update((currentValue) => !currentValue);
+  }
 }

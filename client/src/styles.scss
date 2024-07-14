@@ -1,54 +1,107 @@
-/* You can add global styles to this file, and also import other style files */
+@use "@angular/material" as mat;
+@include mat.core();
 
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css");
-@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap");
 
 body {
   box-sizing: border-box;
   margin: 0;
-  font-family: "Nunito Sans";
 }
 
-button {
-  padding: 0.3rem 0.5rem;
-  border-radius: 0.5rem;
+$mat-light-theme: mat.define-theme(
+  (
+    color: (
+      theme-type: light,
+      primary: mat.$violet-palette,
+    ),
+    typography: (
+      brand-family: "Nunito Sans",
+      bold-weight: 900,
+    ),
+    density: (
+      scale: -1,
+    ),
+  )
+);
+
+$mat-dark-theme: mat.define-theme(
+  (
+    color: (
+      theme-type: dark,
+    ),
+  )
+);
+.light-theme {
+  // @include mat.core-theme($mat-light-theme);
+
+  .navbar {
+    color: #111517;
+    background-color: #fafafa;
+  }
+
+  .toggle-switch-color {
+    background-color: gray;
+  }
+
+  .toggle-switch-color::before {
+    background-color: white;
+  }
+
+  .header {
+    background-color: #fafafa;
+    color: #111517;
+  }
+}
+
+.dark-theme {
+  .navbar,
+  .navbar :not(.toggle-switch-color) {
+    color: #ffffff !important;
+    background-color: #2b3945 !important;
+  }
+
+  .toggle-switch-color {
+    background-color: #fafafa;
+  }
+
+  .toggle-switch-color::before {
+    background-color: #2b3945;
+    transform: translateX(40px);
+  }
+
+  .header {
+    color: #ffffff;
+    background-color: #2b3945;
+  }
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.toggle-switch {
+  width: 80px;
+  height: 40px;
+  border-radius: 80px;
   cursor: pointer;
+  position: relative;
+  transition: 0.2s;
 }
 
-.dark {
-  background-color: #333;
-  color: #fff;
-
-  .header {
-    background-color: #444;
-    color: #fff;
-  }
-
-  button {
-    background-color: #444;
-    color: #fff;
-
-    &:hover {
-      background-color: #555;
-    }
-  }
-
-  h1 {
-    color: #fff;
-  }
+.toggle-switch::before {
+  position: absolute;
+  content: "";
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  margin: 2.5px;
+  transition: 0.2s;
 }
 
-.light {
-  background-color: #fff;
-  color: #333;
+.toggle-checkbox {
+  display: none;
+}
 
-  .header {
-    background-color: #eaeaea;
-    color: #333;
-  }
-
-  button {
-    border-color: #d2d2d2;
-    color: gray;
-  }
+.page-container {
+  min-height: calc(100vh - 56px);
 }
