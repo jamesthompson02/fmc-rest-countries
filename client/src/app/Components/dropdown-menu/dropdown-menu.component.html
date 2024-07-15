@@ -1,1 +1,6 @@
-<p>dropdown-menu works!</p>
+<select class="dropdown-region-menu" (change)="onChange($event)">
+  <option value="" disabled selected hidden>Filter by Region</option>
+  @for (region of regions; track $index) {
+  <option [value]="region">{{ region }}</option>
+  }
+</select>

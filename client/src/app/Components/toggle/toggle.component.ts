@@ -15,7 +15,6 @@ import { ThemeService } from '../../Services/theme.service';
 export class ToggleComponent {
   constructor(public themeService: ThemeService) {}
   switchTheme(e: Event) {
-    console.log((e.target as HTMLInputElement).checked);
     this.themeService.setTheme((e.target as HTMLInputElement).checked);
   }
 }

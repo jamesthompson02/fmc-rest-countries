@@ -1,1 +1,21 @@
-<div class="page-container">All countries page.</div>
+<div class="page-container">
+  <div class="p-5 d-flex justify-content-between align-items-center">
+    <app-searchbar placeholder="Filter Countries..."></app-searchbar>
+    <app-dropdown-menu></app-dropdown-menu>
+  </div>
+  <div
+    class="country-card-container p-5 d-flex justify-content-between flex-wrap"
+  >
+    @for(country of countries; track $index) {
+    <app-card
+      flag="{{ country.flags.png }}"
+      name="{{ country.name.common }}"
+      capital=" {{ country.capital[0] }}"
+      region=" {{ country.region }}"
+      population="{{ country.population }}"
+    ></app-card>
+    } @empty {
+    <p>No countries to display</p>
+    }
+  </div>
+</div>

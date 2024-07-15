@@ -1,1 +1,6 @@
-<p>searchbar works!</p>
+<input
+  class="searchbar-input"
+  type="text"
+  [attr.placeholder]="placeholder ? placeholder : ''"
+  (keyup)="onKeyUp($event)"
+/>

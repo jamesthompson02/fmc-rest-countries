@@ -1,9 +1,17 @@
 import { Injectable } from '@angular/core';
+import { BehaviorSubject, Observable, Subject } from 'rxjs';
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root',
 })
 export class RegionDropdownService {
+  private _dropdownOption$: BehaviorSubject<string> =
+    new BehaviorSubject<string>('');
 
-  constructor() { }
+  public dropdownOption$: Observable<string> =
+    this._dropdownOption$.asObservable();
+
+  public dispatch(dropdownOption: string) {
+    this._dropdownOption$.next(dropdownOption);
+  }
 }

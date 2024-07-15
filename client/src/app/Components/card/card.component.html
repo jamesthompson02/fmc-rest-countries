@@ -1,1 +1,11 @@
-<p>card works!</p>
+<a class="no-underline" [routerLink]="name">
+  <div class="card">
+    <img class="card-flag" [src]="flag" alt="Flag of {{ name }}" />
+    <div class="card-details">
+      <p class="card-title">{{ name }}</p>
+      <p>Population: {{ population | numberFormatter }}</p>
+      <p>Region: {{ region }}</p>
+      <p>Capital: {{ capital }}</p>
+    </div>
+  </div>
+</a>

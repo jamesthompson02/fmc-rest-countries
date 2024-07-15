@@ -31,12 +31,13 @@ $mat-dark-theme: mat.define-theme(
     ),
   )
 );
+
 .light-theme {
   // @include mat.core-theme($mat-light-theme);
 
   .navbar {
     color: #111517;
-    background-color: #fafafa;
+    background-color: #ffffff;
   }
 
   .toggle-switch-color {
@@ -51,17 +52,36 @@ $mat-dark-theme: mat.define-theme(
     background-color: #fafafa;
     color: #111517;
   }
+
+  .page-container {
+    background-color: #e2e2e2;
+  }
+
+  .searchbar-input {
+    background-color: #ffffff;
+    color: #858585;
+  }
+
+  .card {
+    background-color: #ffffff;
+    color: #858585;
+  }
+
+  .dropdown-region-menu {
+    background-color: #ffffff;
+    color: #858585;
+  }
 }
 
 .dark-theme {
   .navbar,
   .navbar :not(.toggle-switch-color) {
-    color: #ffffff !important;
+    color: #f7f7f7 !important;
     background-color: #2b3945 !important;
   }
 
   .toggle-switch-color {
-    background-color: #fafafa;
+    background-color: #f7f7f7;
   }
 
   .toggle-switch-color::before {
@@ -70,8 +90,40 @@ $mat-dark-theme: mat.define-theme(
   }
 
   .header {
-    color: #ffffff;
+    color: #f7f7f7;
     background-color: #2b3945;
+  }
+
+  .page-container {
+    background-color: #202c37;
+  }
+
+  .card {
+    outline: 1px solid #202c37;
+    border: 1px solid #202c37;
+  }
+
+  // .card-flag {
+  //   outline: 1px solid #202c37;
+  // }
+
+  .searchbar-input {
+    background-color: #f7f7f7;
+    color: #111517;
+  }
+
+  .card {
+    background-color: #f7f7f7;
+    color: #111517;
+  }
+
+  .searchbar-input::placeholder {
+    color: #111517;
+  }
+
+  .dropdown-region-menu {
+    background-color: #f7f7f7;
+    color: #111517;
   }
 }
 
@@ -104,4 +156,50 @@ $mat-dark-theme: mat.define-theme(
 
 .page-container {
   min-height: calc(100vh - 56px);
+  padding: 2rem;
+}
+
+.searchbar-input,
+.searchbar-input:focus {
+  width: calc(100vw * 0.45);
+  border: none;
+  outline: none;
+  height: 50px;
+  padding: 0.25rem;
+  font-size: 1.5rem;
+  border-radius: 5px;
+}
+
+.dropdown-region-menu,
+.dropdown-region-menu:focus {
+  border: none;
+  outline: none;
+  height: 50px;
+  font-size: 1.5rem;
+  padding: 0.25rem;
+  border-radius: 5px;
+}
+
+.card {
+  height: 370px;
+  width: 300px;
+  margin: 1rem;
+  padding: 0;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.card-flag {
+  max-height: 200px;
+  width: 100%;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+}
+
+.card-details {
+  padding: 1rem;
+}
+.card-title {
+  text-align: center;
+  font-weight: bold;
 }
