@@ -91,6 +91,11 @@ $mat-dark-theme: mat.define-theme(
     color: #111517;
     border: 1px solid #858585;
   }
+
+  .not-found-container {
+    background-color: #e2e2e2;
+    color: #111517;
+  }
 }
 
 .dark-theme {
@@ -157,6 +162,11 @@ $mat-dark-theme: mat.define-theme(
     color: #f7f7f7;
     background-color: #2b3945;
     border: 1px solid black;
+  }
+
+  .not-found-container {
+    background-color: #202c37;
+    color: #ffffff;
   }
 }
 
@@ -289,4 +299,13 @@ $mat-dark-theme: mat.define-theme(
   margin: 0.25rem 0.25rem;
   box-sizing: border-box;
   border-radius: 5px;
+}
+
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  height: 75vh;
 }
