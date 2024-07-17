@@ -1,1 +1,7 @@
-<p>button works!</p>
+<button class="button" (click)="emitEvent($event)">
+  @if(icon) {
+  <span class="button-icon"><i class="{{ icon }}"></i></span>
+  } @if(text) {
+  <span>{{ text }}</span>
+  }
+</button>

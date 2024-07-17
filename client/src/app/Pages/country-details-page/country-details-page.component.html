@@ -1,1 +1,15 @@
-<div class="page-container">Country Details.</div>
+<div class="page-container">
+  <app-button
+    icon="fa-solid fa-arrow-left"
+    text="Back"
+    (onClick)="backClicked()"
+  ></app-button>
+  <div class="country-details-container">
+    <div class="country-details-flag-container">
+      <app-country-details-image></app-country-details-image>
+    </div>
+    <div class="country-details-info-container">
+      <app-country-details-text></app-country-details-text>
+    </div>
+  </div>
+</div>

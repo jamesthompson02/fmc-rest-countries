@@ -15,6 +15,7 @@
         }
       }
     },
+    "cca3": "WLF",
     "currencies": {
       "XPF": {
         "name": "CFP franc",
@@ -48,6 +49,7 @@
         }
       }
     },
+    "cca3": "ISL",
     "currencies": {
       "ISK": {
         "name": "Icelandic króna",
@@ -91,6 +93,7 @@
         }
       }
     },
+    "cca3": "LUX",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -128,6 +131,7 @@
         }
       }
     },
+    "cca3": "MLI",
     "currencies": {
       "XOF": {
         "name": "West African CFA franc",
@@ -171,6 +175,7 @@
         }
       }
     },
+    "cca3": "COM",
     "currencies": {
       "KMF": {
         "name": "Comorian franc",
@@ -208,6 +213,7 @@
         }
       }
     },
+    "cca3": "AUS",
     "currencies": {
       "AUD": {
         "name": "Australian dollar",
@@ -243,6 +249,7 @@
         }
       }
     },
+    "cca3": "EST",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -282,6 +289,7 @@
         }
       }
     },
+    "cca3": "CAN",
     "currencies": {
       "CAD": {
         "name": "Canadian dollar",
@@ -322,6 +330,7 @@
         }
       }
     },
+    "cca3": "BLR",
     "currencies": {
       "BYN": {
         "name": "Belarusian ruble",
@@ -358,6 +367,7 @@
         }
       }
     },
+    "cca3": "GUY",
     "currencies": {
       "GYD": {
         "name": "Guyanese dollar",
@@ -393,6 +403,7 @@
         }
       }
     },
+    "cca3": "GMB",
     "currencies": {
       "GMD": {
         "name": "dalasi",
@@ -428,6 +439,7 @@
         }
       }
     },
+    "cca3": "TUN",
     "currencies": {
       "TND": {
         "name": "Tunisian dinar",
@@ -467,6 +479,7 @@
         }
       }
     },
+    "cca3": "CMR",
     "currencies": {
       "XAF": {
         "name": "Central African CFA franc",
@@ -511,6 +524,7 @@
         }
       }
     },
+    "cca3": "RWA",
     "currencies": {
       "RWF": {
         "name": "Rwandan franc",
@@ -548,6 +562,7 @@
         }
       }
     },
+    "cca3": "KHM",
     "currencies": {
       "KHR": {
         "name": "Cambodian riel",
@@ -585,6 +600,7 @@
         }
       }
     },
+    "cca3": "BEN",
     "currencies": {
       "XOF": {
         "name": "West African CFA franc",
@@ -620,6 +636,7 @@
         }
       }
     },
+    "cca3": "GRC",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -655,6 +672,7 @@
         }
       }
     },
+    "cca3": "KOR",
     "currencies": {
       "KRW": {
         "name": "South Korean won",
@@ -698,6 +716,7 @@
         }
       }
     },
+    "cca3": "MUS",
     "currencies": {
       "MUR": {
         "name": "Mauritian rupee",
@@ -735,6 +754,7 @@
         }
       }
     },
+    "cca3": "VIR",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -768,6 +788,7 @@
         }
       }
     },
+    "cca3": "ALA",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -801,6 +822,7 @@
         }
       }
     },
+    "cca3": "SMR",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -834,6 +856,7 @@
         }
       }
     },
+    "cca3": "MDV",
     "currencies": {
       "MVR": {
         "name": "Maldivian rufiyaa",
@@ -877,6 +900,7 @@
         }
       }
     },
+    "cca3": "VUT",
     "currencies": {
       "VUV": {
         "name": "Vanuatu vatu",
@@ -918,6 +942,7 @@
         }
       }
     },
+    "cca3": "MWI",
     "currencies": {
       "MWK": {
         "name": "Malawian kwacha",
@@ -954,6 +979,7 @@
         }
       }
     },
+    "cca3": "EGY",
     "currencies": {
       "EGP": {
         "name": "Egyptian pound",
@@ -989,6 +1015,7 @@
         }
       }
     },
+    "cca3": "SEN",
     "currencies": {
       "XOF": {
         "name": "West African CFA franc",
@@ -1024,6 +1051,7 @@
         }
       }
     },
+    "cca3": "GEO",
     "currencies": {
       "GEL": {
         "name": "lari",
@@ -1067,6 +1095,7 @@
         }
       }
     },
+    "cca3": "NZL",
     "currencies": {
       "NZD": {
         "name": "New Zealand dollar",
@@ -1102,6 +1131,7 @@
         }
       }
     },
+    "cca3": "CPV",
     "currencies": {
       "CVE": {
         "name": "Cape Verdean escudo",
@@ -1137,6 +1167,7 @@
         }
       }
     },
+    "cca3": "ITA",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -1172,6 +1203,7 @@
         }
       }
     },
+    "cca3": "MCO",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -1205,6 +1237,7 @@
         }
       }
     },
+    "cca3": "SVK",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -1240,6 +1273,7 @@
         }
       }
     },
+    "cca3": "URY",
     "currencies": {
       "UYU": {
         "name": "Uruguayan peso",
@@ -1275,6 +1309,7 @@
         }
       }
     },
+    "cca3": "LAO",
     "currencies": {
       "LAK": {
         "name": "Lao kip",
@@ -1314,6 +1349,7 @@
         }
       }
     },
+    "cca3": "FRO",
     "currencies": {
       "DKK": {
         "name": "Danish krone",
@@ -1356,6 +1392,7 @@
         }
       }
     },
+    "cca3": "NIU",
     "currencies": {
       "NZD": {
         "name": "New Zealand dollar",
@@ -1390,6 +1427,7 @@
         }
       }
     },
+    "cca3": "MKD",
     "currencies": {
       "MKD": {
         "name": "denar",
@@ -1425,6 +1463,7 @@
         }
       }
     },
+    "cca3": "CHL",
     "currencies": {
       "CLP": {
         "name": "Chilean peso",
@@ -1464,6 +1503,7 @@
         }
       }
     },
+    "cca3": "CYP",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -1504,6 +1544,7 @@
         }
       }
     },
+    "cca3": "MAC",
     "currencies": {
       "MOP": {
         "name": "Macanese pataca",
@@ -1538,6 +1579,7 @@
         }
       }
     },
+    "cca3": "SLV",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -1573,6 +1615,7 @@
         }
       }
     },
+    "cca3": "JOR",
     "currencies": {
       "JOD": {
         "name": "Jordanian dinar",
@@ -1612,6 +1655,7 @@
         }
       }
     },
+    "cca3": "JAM",
     "currencies": {
       "JMD": {
         "name": "Jamaican dollar",
@@ -1648,6 +1692,7 @@
         }
       }
     },
+    "cca3": "BRB",
     "currencies": {
       "BBD": {
         "name": "Barbadian dollar",
@@ -1689,6 +1734,7 @@
         }
       }
     },
+    "cca3": "ESH",
     "currencies": {
       "DZD": {
         "name": "Algerian dinar",
@@ -1732,6 +1778,7 @@
         }
       }
     },
+    "cca3": "QAT",
     "currencies": {
       "QAR": {
         "name": "Qatari riyal",
@@ -1765,6 +1812,7 @@
         }
       }
     },
+    "cca3": "GTM",
     "currencies": {
       "GTQ": {
         "name": "Guatemalan quetzal",
@@ -1800,6 +1848,7 @@
         }
       }
     },
+    "cca3": "FSM",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -1835,6 +1884,7 @@
         }
       }
     },
+    "cca3": "MSR",
     "currencies": {
       "XCD": {
         "name": "Eastern Caribbean dollar",
@@ -1876,6 +1926,7 @@
         }
       }
     },
+    "cca3": "PNG",
     "currencies": {
       "PGK": {
         "name": "Papua New Guinean kina",
@@ -1913,6 +1964,7 @@
         }
       }
     },
+    "cca3": "BRA",
     "currencies": {
       "BRL": {
         "name": "Brazilian real",
@@ -1959,6 +2011,7 @@
         }
       }
     },
+    "cca3": "LTU",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -1994,6 +2047,7 @@
         }
       }
     },
+    "cca3": "GUF",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -2027,6 +2081,7 @@
         }
       }
     },
+    "cca3": "MDA",
     "currencies": {
       "MDL": {
         "name": "Moldovan leu",
@@ -2066,6 +2121,7 @@
         }
       }
     },
+    "cca3": "KGZ",
     "currencies": {
       "KGS": {
         "name": "Kyrgyzstani som",
@@ -2110,6 +2166,7 @@
         }
       }
     },
+    "cca3": "CUW",
     "currencies": {
       "ANG": {
         "name": "Netherlands Antillean guilder",
@@ -2145,6 +2202,7 @@
         }
       }
     },
+    "cca3": "VNM",
     "currencies": {
       "VND": {
         "name": "Vietnamese đồng",
@@ -2180,6 +2238,7 @@
         }
       }
     },
+    "cca3": "AGO",
     "currencies": {
       "AOA": {
         "name": "Angolan kwanza",
@@ -2219,6 +2278,7 @@
         }
       }
     },
+    "cca3": "MYS",
     "currencies": {
       "MYR": {
         "name": "Malaysian ringgit",
@@ -2267,6 +2327,7 @@
         }
       }
     },
+    "cca3": "CHE",
     "currencies": {
       "CHF": {
         "name": "Swiss franc",
@@ -2305,6 +2366,7 @@
         }
       }
     },
+    "cca3": "THA",
     "currencies": {
       "THB": {
         "name": "Thai baht",
@@ -2340,6 +2402,7 @@
         }
       }
     },
+    "cca3": "DOM",
     "currencies": {
       "DOP": {
         "name": "Dominican peso",
@@ -2379,6 +2442,7 @@
         }
       }
     },
+    "cca3": "UZB",
     "currencies": {
       "UZS": {
         "name": "Uzbekistani soʻm",
@@ -2419,6 +2483,7 @@
         }
       }
     },
+    "cca3": "TCD",
     "currencies": {
       "XAF": {
         "name": "Central African CFA franc",
@@ -2455,6 +2520,7 @@
         }
       }
     },
+    "cca3": "CCK",
     "currencies": {
       "AUD": {
         "name": "Australian dollar",
@@ -2488,6 +2554,7 @@
         }
       }
     },
+    "cca3": "GIN",
     "currencies": {
       "GNF": {
         "name": "Guinean franc",
@@ -2523,6 +2590,7 @@
         }
       }
     },
+    "cca3": "TCA",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -2560,6 +2628,7 @@
         }
       }
     },
+    "cca3": "PRI",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -2594,6 +2663,7 @@
         }
       }
     },
+    "cca3": "BTN",
     "currencies": {
       "BTN": {
         "name": "Bhutanese ngultrum",
@@ -2633,6 +2703,7 @@
         }
       }
     },
+    "cca3": "CYM",
     "currencies": {
       "KYD": {
         "name": "Cayman Islands dollar",
@@ -2670,6 +2741,7 @@
         }
       }
     },
+    "cca3": "MHL",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -2704,6 +2776,7 @@
         }
       }
     },
+    "cca3": "AIA",
     "currencies": {
       "XCD": {
         "name": "Eastern Caribbean dollar",
@@ -2737,6 +2810,7 @@
         }
       }
     },
+    "cca3": "MRT",
     "currencies": {
       "MRU": {
         "name": "Mauritanian ouguiya",
@@ -2780,6 +2854,7 @@
         }
       }
     },
+    "cca3": "NOR",
     "currencies": {
       "NOK": {
         "name": "Norwegian krone",
@@ -2817,6 +2892,7 @@
         }
       }
     },
+    "cca3": "MTQ",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -2854,6 +2930,7 @@
         }
       }
     },
+    "cca3": "ISR",
     "currencies": {
       "ILS": {
         "name": "Israeli new shekel",
@@ -2890,6 +2967,7 @@
         }
       }
     },
+    "cca3": "BLM",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -2923,6 +3001,7 @@
         }
       }
     },
+    "cca3": "ECU",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -2958,6 +3037,7 @@
         }
       }
     },
+    "cca3": "GRD",
     "currencies": {
       "XCD": {
         "name": "Eastern Caribbean dollar",
@@ -2991,6 +3071,7 @@
         }
       }
     },
+    "cca3": "HRV",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -3026,6 +3107,7 @@
         }
       }
     },
+    "cca3": "BRN",
     "currencies": {
       "BND": {
         "name": "Brunei dollar",
@@ -3071,6 +3153,7 @@
         }
       }
     },
+    "cca3": "IRQ",
     "currencies": {
       "IQD": {
         "name": "Iraqi dinar",
@@ -3108,6 +3191,7 @@
         }
       }
     },
+    "cca3": "JPN",
     "currencies": {
       "JPY": {
         "name": "Japanese yen",
@@ -3147,6 +3231,7 @@
         }
       }
     },
+    "cca3": "LSO",
     "currencies": {
       "LSL": {
         "name": "Lesotho loti",
@@ -3191,6 +3276,7 @@
         }
       }
     },
+    "cca3": "TUV",
     "currencies": {
       "AUD": {
         "name": "Australian dollar",
@@ -3231,6 +3317,7 @@
         }
       }
     },
+    "cca3": "HMD",
     "currencies": {},
     "capital": [],
     "region": "Antarctic",
@@ -3263,6 +3350,7 @@
         }
       }
     },
+    "cca3": "FIN",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -3299,6 +3387,7 @@
         }
       }
     },
+    "cca3": "SSD",
     "currencies": {
       "SSP": {
         "name": "South Sudanese pound",
@@ -3334,6 +3423,7 @@
         }
       }
     },
+    "cca3": "UMI",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -3367,6 +3457,7 @@
         }
       }
     },
+    "cca3": "SHN",
     "currencies": {
       "GBP": {
         "name": "Pound sterling",
@@ -3412,6 +3503,7 @@
         }
       }
     },
+    "cca3": "AFG",
     "currencies": {
       "AFN": {
         "name": "Afghan afghani",
@@ -3447,6 +3539,7 @@
         }
       }
     },
+    "cca3": "SLB",
     "currencies": {
       "SBD": {
         "name": "Solomon Islands dollar",
@@ -3482,6 +3575,7 @@
         }
       }
     },
+    "cca3": "CHN",
     "currencies": {
       "CNY": {
         "name": "Chinese yuan",
@@ -3542,6 +3636,7 @@
         }
       }
     },
+    "cca3": "ERI",
     "currencies": {
       "ERN": {
         "name": "Eritrean nakfa",
@@ -3577,6 +3672,7 @@
         }
       }
     },
+    "cca3": "RUS",
     "currencies": {
       "RUB": {
         "name": "Russian ruble",
@@ -3627,6 +3723,7 @@
         }
       }
     },
+    "cca3": "AND",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -3660,6 +3757,7 @@
         }
       }
     },
+    "cca3": "ARM",
     "currencies": {
       "AMD": {
         "name": "Armenian dram",
@@ -3695,6 +3793,7 @@
         }
       }
     },
+    "cca3": "AUT",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -3730,6 +3829,7 @@
         }
       }
     },
+    "cca3": "SUR",
     "currencies": {
       "SRD": {
         "name": "Surinamese dollar",
@@ -3765,6 +3865,7 @@
         }
       }
     },
+    "cca3": "ESP",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -3811,6 +3912,7 @@
         }
       }
     },
+    "cca3": "TKL",
     "currencies": {
       "NZD": {
         "name": "New Zealand dollar",
@@ -3846,6 +3948,7 @@
         }
       }
     },
+    "cca3": "BHS",
     "currencies": {
       "BSD": {
         "name": "Bahamian dollar",
@@ -3891,6 +3994,7 @@
         }
       }
     },
+    "cca3": "SXM",
     "currencies": {
       "ANG": {
         "name": "Netherlands Antillean guilder",
@@ -3934,6 +4038,7 @@
         }
       }
     },
+    "cca3": "BLZ",
     "currencies": {
       "BZD": {
         "name": "Belize dollar",
@@ -3979,6 +4084,7 @@
         }
       }
     },
+    "cca3": "JEY",
     "currencies": {
       "GBP": {
         "name": "British pound",
@@ -4018,6 +4124,7 @@
         }
       }
     },
+    "cca3": "SWE",
     "currencies": {
       "SEK": {
         "name": "Swedish krona",
@@ -4057,6 +4164,7 @@
         }
       }
     },
+    "cca3": "BWA",
     "currencies": {
       "BWP": {
         "name": "Botswana pula",
@@ -4097,6 +4205,7 @@
         }
       }
     },
+    "cca3": "IMN",
     "currencies": {
       "GBP": {
         "name": "British pound",
@@ -4135,6 +4244,7 @@
         }
       }
     },
+    "cca3": "ARE",
     "currencies": {
       "AED": {
         "name": "United Arab Emirates dirham",
@@ -4170,6 +4280,7 @@
         }
       }
     },
+    "cca3": "IRN",
     "currencies": {
       "IRR": {
         "name": "Iranian rial",
@@ -4205,6 +4316,7 @@
         }
       }
     },
+    "cca3": "GAB",
     "currencies": {
       "XAF": {
         "name": "Central African CFA franc",
@@ -4240,6 +4352,7 @@
         }
       }
     },
+    "cca3": "KNA",
     "currencies": {
       "XCD": {
         "name": "Eastern Caribbean dollar",
@@ -4281,6 +4394,7 @@
         }
       }
     },
+    "cca3": "GNQ",
     "currencies": {
       "XAF": {
         "name": "Central African CFA franc",
@@ -4316,6 +4430,7 @@
         }
       }
     },
+    "cca3": "STP",
     "currencies": {
       "STN": {
         "name": "São Tomé and Príncipe dobra",
@@ -4351,6 +4466,7 @@
         }
       }
     },
+    "cca3": "GRL",
     "currencies": {
       "DKK": {
         "name": "krone",
@@ -4384,6 +4500,7 @@
         }
       }
     },
+    "cca3": "BGD",
     "currencies": {
       "BDT": {
         "name": "Bangladeshi taka",
@@ -4419,6 +4536,7 @@
         }
       }
     },
+    "cca3": "ROU",
     "currencies": {
       "RON": {
         "name": "Romanian leu",
@@ -4454,6 +4572,7 @@
         }
       }
     },
+    "cca3": "IOT",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -4491,6 +4610,7 @@
         }
       }
     },
+    "cca3": "SDN",
     "currencies": {
       "SDG": {
         "name": "Sudanese pound",
@@ -4535,6 +4655,7 @@
         }
       }
     },
+    "cca3": "BIH",
     "currencies": {
       "BAM": {
         "name": "Bosnia and Herzegovina convertible mark",
@@ -4576,6 +4697,7 @@
         }
       }
     },
+    "cca3": "MLT",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -4620,6 +4742,7 @@
         }
       }
     },
+    "cca3": "SYC",
     "currencies": {
       "SCR": {
         "name": "Seychellois rupee",
@@ -4661,6 +4784,7 @@
         }
       }
     },
+    "cca3": "LKA",
     "currencies": {
       "LKR": {
         "name": "Sri Lankan rupee",
@@ -4697,6 +4821,7 @@
         }
       }
     },
+    "cca3": "MEX",
     "currencies": {
       "MXN": {
         "name": "Mexican peso",
@@ -4732,6 +4857,7 @@
         }
       }
     },
+    "cca3": "YEM",
     "currencies": {
       "YER": {
         "name": "Yemeni rial",
@@ -4767,6 +4893,7 @@
         }
       }
     },
+    "cca3": "VGB",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -4800,6 +4927,7 @@
         }
       }
     },
+    "cca3": "NLD",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -4839,6 +4967,7 @@
         }
       }
     },
+    "cca3": "PRY",
     "currencies": {
       "PYG": {
         "name": "Paraguayan guaraní",
@@ -4875,6 +5004,7 @@
         }
       }
     },
+    "cca3": "GBR",
     "currencies": {
       "GBP": {
         "name": "British pound",
@@ -4910,6 +5040,7 @@
         }
       }
     },
+    "cca3": "VEN",
     "currencies": {
       "VES": {
         "name": "Venezuelan bolívar soberano",
@@ -4945,6 +5076,7 @@
         }
       }
     },
+    "cca3": "BVT",
     "currencies": {},
     "capital": [],
     "region": "Antarctic",
@@ -4973,6 +5105,7 @@
         }
       }
     },
+    "cca3": "UKR",
     "currencies": {
       "UAH": {
         "name": "Ukrainian hryvnia",
@@ -5012,6 +5145,7 @@
         }
       }
     },
+    "cca3": "MAR",
     "currencies": {
       "MAD": {
         "name": "Moroccan dirham",
@@ -5048,6 +5182,7 @@
         }
       }
     },
+    "cca3": "PRT",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -5087,6 +5222,7 @@
         }
       }
     },
+    "cca3": "PAK",
     "currencies": {
       "PKR": {
         "name": "Pakistani rupee",
@@ -5123,6 +5259,7 @@
         }
       }
     },
+    "cca3": "VCT",
     "currencies": {
       "XCD": {
         "name": "Eastern Caribbean dollar",
@@ -5156,6 +5293,7 @@
         }
       }
     },
+    "cca3": "PRK",
     "currencies": {
       "KPW": {
         "name": "North Korean won",
@@ -5189,6 +5327,7 @@
         }
       }
     },
+    "cca3": "SVN",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -5224,6 +5363,7 @@
         }
       }
     },
+    "cca3": "CIV",
     "currencies": {
       "XOF": {
         "name": "West African CFA franc",
@@ -5259,6 +5399,7 @@
         }
       }
     },
+    "cca3": "PSE",
     "currencies": {
       "EGP": {
         "name": "Egyptian pound",
@@ -5306,6 +5447,7 @@
         }
       }
     },
+    "cca3": "BES",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -5349,6 +5491,7 @@
         }
       }
     },
+    "cca3": "BEL",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -5442,6 +5585,7 @@
         }
       }
     },
+    "cca3": "ZWE",
     "currencies": {
       "ZWL": {
         "name": "Zimbabwean dollar",
@@ -5495,6 +5639,7 @@
         }
       }
     },
+    "cca3": "TZA",
     "currencies": {
       "TZS": {
         "name": "Tanzanian shilling",
@@ -5531,6 +5676,7 @@
         }
       }
     },
+    "cca3": "TGO",
     "currencies": {
       "XOF": {
         "name": "West African CFA franc",
@@ -5570,6 +5716,7 @@
         }
       }
     },
+    "cca3": "COK",
     "currencies": {
       "CKD": {
         "name": "Cook Islands dollar",
@@ -5608,6 +5755,7 @@
         }
       }
     },
+    "cca3": "GLP",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -5641,6 +5789,7 @@
         }
       }
     },
+    "cca3": "NCL",
     "currencies": {
       "XPF": {
         "name": "CFP franc",
@@ -5674,6 +5823,7 @@
         }
       }
     },
+    "cca3": "LCA",
     "currencies": {
       "XCD": {
         "name": "Eastern Caribbean dollar",
@@ -5709,6 +5859,7 @@
         }
       }
     },
+    "cca3": "SGS",
     "currencies": {
       "SHP": {
         "name": "Saint Helena pound",
@@ -5742,6 +5893,7 @@
         }
       }
     },
+    "cca3": "POL",
     "currencies": {
       "PLN": {
         "name": "Polish złoty",
@@ -5781,6 +5933,7 @@
         }
       }
     },
+    "cca3": "WSM",
     "currencies": {
       "WST": {
         "name": "Samoan tālā",
@@ -5821,6 +5974,7 @@
         }
       }
     },
+    "cca3": "CZE",
     "currencies": {
       "CZK": {
         "name": "Czech koruna",
@@ -5857,6 +6011,7 @@
         }
       }
     },
+    "cca3": "IDN",
     "currencies": {
       "IDR": {
         "name": "Indonesian rupiah",
@@ -5904,6 +6059,7 @@
         }
       }
     },
+    "cca3": "BOL",
     "currencies": {
       "BOB": {
         "name": "Bolivian boliviano",
@@ -5942,6 +6098,7 @@
         }
       }
     },
+    "cca3": "COL",
     "currencies": {
       "COP": {
         "name": "Colombian peso",
@@ -5977,6 +6134,7 @@
         }
       }
     },
+    "cca3": "HND",
     "currencies": {
       "HNL": {
         "name": "Honduran lempira",
@@ -6012,6 +6170,7 @@
         }
       }
     },
+    "cca3": "DNK",
     "currencies": {
       "DKK": {
         "name": "Danish krone",
@@ -6051,6 +6210,7 @@
         }
       }
     },
+    "cca3": "CAF",
     "currencies": {
       "XAF": {
         "name": "Central African CFA franc",
@@ -6087,6 +6247,7 @@
         }
       }
     },
+    "cca3": "LBY",
     "currencies": {
       "LYD": {
         "name": "Libyan dinar",
@@ -6124,6 +6285,7 @@
         }
       }
     },
+    "cca3": "GNB",
     "currencies": {
       "XOF": {
         "name": "West African CFA franc",
@@ -6160,6 +6322,7 @@
         }
       }
     },
+    "cca3": "MNG",
     "currencies": {
       "MNT": {
         "name": "Mongolian tögrög",
@@ -6211,6 +6374,7 @@
         }
       }
     },
+    "cca3": "COD",
     "currencies": {
       "CDF": {
         "name": "Congolese franc",
@@ -6250,6 +6414,7 @@
         }
       }
     },
+    "cca3": "FLK",
     "currencies": {
       "FKP": {
         "name": "Falkland Islands pound",
@@ -6287,6 +6452,7 @@
         }
       }
     },
+    "cca3": "NRU",
     "currencies": {
       "AUD": {
         "name": "Australian dollar",
@@ -6323,6 +6489,7 @@
         }
       }
     },
+    "cca3": "SYR",
     "currencies": {
       "SYP": {
         "name": "Syrian pound",
@@ -6358,6 +6525,7 @@
         }
       }
     },
+    "cca3": "MNE",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -6393,6 +6561,7 @@
         }
       }
     },
+    "cca3": "FRA",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -6428,6 +6597,7 @@
         }
       }
     },
+    "cca3": "ZMB",
     "currencies": {
       "ZMW": {
         "name": "Zambian kwacha",
@@ -6463,6 +6633,7 @@
         }
       }
     },
+    "cca3": "MMR",
     "currencies": {
       "MMK": {
         "name": "Burmese kyat",
@@ -6498,6 +6669,7 @@
         }
       }
     },
+    "cca3": "SPM",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -6531,6 +6703,7 @@
         }
       }
     },
+    "cca3": "CRI",
     "currencies": {
       "CRC": {
         "name": "Costa Rican colón",
@@ -6570,6 +6743,7 @@
         }
       }
     },
+    "cca3": "SOM",
     "currencies": {
       "SOS": {
         "name": "Somali shilling",
@@ -6610,6 +6784,7 @@
         }
       }
     },
+    "cca3": "IRL",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -6646,6 +6821,7 @@
         }
       }
     },
+    "cca3": "PYF",
     "currencies": {
       "XPF": {
         "name": "CFP franc",
@@ -6679,6 +6855,7 @@
         }
       }
     },
+    "cca3": "PCN",
     "currencies": {
       "NZD": {
         "name": "New Zealand dollar",
@@ -6712,6 +6889,7 @@
         }
       }
     },
+    "cca3": "HUN",
     "currencies": {
       "HUF": {
         "name": "Hungarian forint",
@@ -6747,6 +6925,7 @@
         }
       }
     },
+    "cca3": "TUR",
     "currencies": {
       "TRY": {
         "name": "Turkish lira",
@@ -6782,6 +6961,7 @@
         }
       }
     },
+    "cca3": "OMN",
     "currencies": {
       "OMR": {
         "name": "Omani rial",
@@ -6823,6 +7003,7 @@
         }
       }
     },
+    "cca3": "GUM",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -6858,6 +7039,7 @@
         }
       }
     },
+    "cca3": "NPL",
     "currencies": {
       "NPR": {
         "name": "Nepalese rupee",
@@ -6893,6 +7075,7 @@
         }
       }
     },
+    "cca3": "LIE",
     "currencies": {
       "CHF": {
         "name": "Swiss franc",
@@ -6930,6 +7113,7 @@
         }
       }
     },
+    "cca3": "MDG",
     "currencies": {
       "MGA": {
         "name": "Malagasy ariary",
@@ -6970,6 +7154,7 @@
         }
       }
     },
+    "cca3": "KAZ",
     "currencies": {
       "KZT": {
         "name": "Kazakhstani tenge",
@@ -7010,6 +7195,7 @@
         }
       }
     },
+    "cca3": "DJI",
     "currencies": {
       "DJF": {
         "name": "Djiboutian franc",
@@ -7046,6 +7232,7 @@
         }
       }
     },
+    "cca3": "GIB",
     "currencies": {
       "GIP": {
         "name": "Gibraltar pound",
@@ -7087,6 +7274,7 @@
         }
       }
     },
+    "cca3": "GGY",
     "currencies": {
       "GBP": {
         "name": "British pound",
@@ -7158,6 +7346,7 @@
         }
       }
     },
+    "cca3": "NAM",
     "currencies": {
       "NAD": {
         "name": "Namibian dollar",
@@ -7213,6 +7402,7 @@
         }
       }
     },
+    "cca3": "COG",
     "currencies": {
       "XAF": {
         "name": "Central African CFA franc",
@@ -7250,6 +7440,7 @@
         }
       }
     },
+    "cca3": "DEU",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -7289,6 +7480,7 @@
         }
       }
     },
+    "cca3": "VAT",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -7323,6 +7515,7 @@
         }
       }
     },
+    "cca3": "ATF",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -7356,6 +7549,7 @@
         }
       }
     },
+    "cca3": "ALB",
     "currencies": {
       "ALL": {
         "name": "Albanian lek",
@@ -7391,6 +7585,7 @@
         }
       }
     },
+    "cca3": "DZA",
     "currencies": {
       "DZD": {
         "name": "Algerian dinar",
@@ -7426,6 +7621,7 @@
         }
       }
     },
+    "cca3": "MYT",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -7463,6 +7659,7 @@
         }
       }
     },
+    "cca3": "HTI",
     "currencies": {
       "HTG": {
         "name": "Haitian gourde",
@@ -7499,6 +7696,7 @@
         }
       }
     },
+    "cca3": "SJM",
     "currencies": {
       "NOK": {
         "name": "krone",
@@ -7536,6 +7734,7 @@
         }
       }
     },
+    "cca3": "TON",
     "currencies": {
       "TOP": {
         "name": "Tongan paʻanga",
@@ -7576,6 +7775,7 @@
         }
       }
     },
+    "cca3": "HKG",
     "currencies": {
       "HKD": {
         "name": "Hong Kong dollar",
@@ -7622,6 +7822,7 @@
         }
       }
     },
+    "cca3": "SGP",
     "currencies": {
       "SGD": {
         "name": "Singapore dollar",
@@ -7658,6 +7859,7 @@
         }
       }
     },
+    "cca3": "ATG",
     "currencies": {
       "XCD": {
         "name": "Eastern Caribbean dollar",
@@ -7691,6 +7893,7 @@
         }
       }
     },
+    "cca3": "SAU",
     "currencies": {
       "SAR": {
         "name": "Saudi riyal",
@@ -7724,6 +7927,7 @@
         }
       }
     },
+    "cca3": "CUB",
     "currencies": {
       "CUC": {
         "name": "Cuban convertible peso",
@@ -7761,6 +7965,7 @@
         }
       }
     },
+    "cca3": "PAN",
     "currencies": {
       "PAB": {
         "name": "Panamanian balboa",
@@ -7800,6 +8005,7 @@
         }
       }
     },
+    "cca3": "LBR",
     "currencies": {
       "LRD": {
         "name": "Liberian dollar",
@@ -7835,6 +8041,7 @@
         }
       }
     },
+    "cca3": "AZE",
     "currencies": {
       "AZN": {
         "name": "Azerbaijani manat",
@@ -7870,6 +8077,7 @@
         }
       }
     },
+    "cca3": "LVA",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -7900,6 +8108,7 @@
       "official": "Antarctica",
       "nativeName": {}
     },
+    "cca3": "ATA",
     "currencies": {},
     "capital": [],
     "region": "Antarctic",
@@ -7930,6 +8139,7 @@
         }
       }
     },
+    "cca3": "KIR",
     "currencies": {
       "AUD": {
         "name": "Australian dollar",
@@ -7970,6 +8180,7 @@
         }
       }
     },
+    "cca3": "ETH",
     "currencies": {
       "ETB": {
         "name": "Ethiopian birr",
@@ -8005,6 +8216,7 @@
         }
       }
     },
+    "cca3": "NER",
     "currencies": {
       "XOF": {
         "name": "West African CFA franc",
@@ -8040,6 +8252,7 @@
         }
       }
     },
+    "cca3": "TTO",
     "currencies": {
       "TTD": {
         "name": "Trinidad and Tobago dollar",
@@ -8075,6 +8288,7 @@
         }
       }
     },
+    "cca3": "SLE",
     "currencies": {
       "SLL": {
         "name": "Sierra Leonean leone",
@@ -8110,6 +8324,7 @@
         }
       }
     },
+    "cca3": "MOZ",
     "currencies": {
       "MZN": {
         "name": "Mozambican metical",
@@ -8149,6 +8364,7 @@
         }
       }
     },
+    "cca3": "PLW",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -8191,6 +8407,7 @@
         }
       }
     },
+    "cca3": "FJI",
     "currencies": {
       "FJD": {
         "name": "Fijian dollar",
@@ -8228,6 +8445,7 @@
         }
       }
     },
+    "cca3": "REU",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -8265,6 +8483,7 @@
         }
       }
     },
+    "cca3": "NFK",
     "currencies": {
       "AUD": {
         "name": "Australian dollar",
@@ -8303,6 +8522,7 @@
         }
       }
     },
+    "cca3": "TKM",
     "currencies": {
       "TMT": {
         "name": "Turkmenistan manat",
@@ -8343,6 +8563,7 @@
         }
       }
     },
+    "cca3": "TJK",
     "currencies": {
       "TJS": {
         "name": "Tajikistani somoni",
@@ -8383,6 +8604,7 @@
         }
       }
     },
+    "cca3": "LBN",
     "currencies": {
       "LBP": {
         "name": "Lebanese pound",
@@ -8419,6 +8641,7 @@
         }
       }
     },
+    "cca3": "NGA",
     "currencies": {
       "NGN": {
         "name": "Nigerian naira",
@@ -8454,6 +8677,7 @@
         }
       }
     },
+    "cca3": "USA",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -8493,6 +8717,7 @@
         }
       }
     },
+    "cca3": "ARG",
     "currencies": {
       "ARS": {
         "name": "Argentine peso",
@@ -8529,6 +8754,7 @@
         }
       }
     },
+    "cca3": "BFA",
     "currencies": {
       "XOF": {
         "name": "West African CFA franc",
@@ -8564,6 +8790,7 @@
         }
       }
     },
+    "cca3": "CXR",
     "currencies": {
       "AUD": {
         "name": "Australian dollar",
@@ -8597,6 +8824,7 @@
         }
       }
     },
+    "cca3": "BMU",
     "currencies": {
       "BMD": {
         "name": "Bermudian dollar",
@@ -8630,6 +8858,7 @@
         }
       }
     },
+    "cca3": "NIC",
     "currencies": {
       "NIO": {
         "name": "Nicaraguan córdoba",
@@ -8669,6 +8898,7 @@
         }
       }
     },
+    "cca3": "SWZ",
     "currencies": {
       "SZL": {
         "name": "Swazi lilangeni",
@@ -8709,6 +8939,7 @@
         }
       }
     },
+    "cca3": "BHR",
     "currencies": {
       "BHD": {
         "name": "Bahraini dinar",
@@ -8746,6 +8977,7 @@
         }
       }
     },
+    "cca3": "KEN",
     "currencies": {
       "KES": {
         "name": "Kenyan shilling",
@@ -8782,6 +9014,7 @@
         }
       }
     },
+    "cca3": "SRB",
     "currencies": {
       "RSD": {
         "name": "Serbian dinar",
@@ -8821,6 +9054,7 @@
         }
       }
     },
+    "cca3": "TLS",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -8857,6 +9091,7 @@
         }
       }
     },
+    "cca3": "DMA",
     "currencies": {
       "XCD": {
         "name": "Eastern Caribbean dollar",
@@ -8898,6 +9133,7 @@
         }
       }
     },
+    "cca3": "MNP",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -8937,6 +9173,7 @@
         }
       }
     },
+    "cca3": "PHL",
     "currencies": {
       "PHP": {
         "name": "Philippine peso",
@@ -8977,6 +9214,7 @@
         }
       }
     },
+    "cca3": "UNK",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -9013,6 +9251,7 @@
         }
       }
     },
+    "cca3": "KWT",
     "currencies": {
       "KWD": {
         "name": "Kuwaiti dinar",
@@ -9046,6 +9285,7 @@
         }
       }
     },
+    "cca3": "TWN",
     "currencies": {
       "TWD": {
         "name": "New Taiwan dollar",
@@ -9083,6 +9323,7 @@
         }
       }
     },
+    "cca3": "BDI",
     "currencies": {
       "BIF": {
         "name": "Burundian franc",
@@ -9123,6 +9364,7 @@
         }
       }
     },
+    "cca3": "ASM",
     "currencies": {
       "USD": {
         "name": "United States dollar",
@@ -9157,6 +9399,7 @@
         }
       }
     },
+    "cca3": "BGR",
     "currencies": {
       "BGN": {
         "name": "Bulgarian lev",
@@ -9232,6 +9475,7 @@
         }
       }
     },
+    "cca3": "ZAF",
     "currencies": {
       "ZAR": {
         "name": "South African rand",
@@ -9285,6 +9529,7 @@
         }
       }
     },
+    "cca3": "PER",
     "currencies": {
       "PEN": {
         "name": "Peruvian sol",
@@ -9326,6 +9571,7 @@
         }
       }
     },
+    "cca3": "ABW",
     "currencies": {
       "AWG": {
         "name": "Aruban florin",
@@ -9360,6 +9606,7 @@
         }
       }
     },
+    "cca3": "GHA",
     "currencies": {
       "GHS": {
         "name": "Ghanaian cedi",
@@ -9395,6 +9642,7 @@
         }
       }
     },
+    "cca3": "MAF",
     "currencies": {
       "EUR": {
         "name": "Euro",
@@ -9436,6 +9684,7 @@
         }
       }
     },
+    "cca3": "IND",
     "currencies": {
       "INR": {
         "name": "Indian rupee",
@@ -9477,6 +9726,7 @@
         }
       }
     },
+    "cca3": "UGA",
     "currencies": {
       "UGX": {
         "name": "Ugandan shilling",

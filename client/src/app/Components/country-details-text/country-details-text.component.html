@@ -1,1 +1,31 @@
-<p>country-details-text works!</p>
+<div class="country-details-text">
+  <h4>{{ name }}</h4>
+  <div class="country-text-container">
+    <div>
+      <p>Population: {{ population | numberFormatter }}</p>
+      <p>Region: {{ region }}</p>
+      <p>Subregion: {{ subregion }}</p>
+      <p>Capital: {{ capital }}</p>
+    </div>
+    <div>
+      <p>
+        Currencies: @for(currency of currenciesList; track $index) {
+        <span>{{ currency["name"] }} ({{ currency["symbol"] }}) </span>
+        }
+      </p>
+      <p>
+        Languages: @for(language of languagesList; track $index) {
+        <span>{{ language }} </span>
+        }
+      </p>
+    </div>
+    <div class="border-countries-container">
+      Borders: @for(country of borderCountryList; track $index) {
+      <a class="no-underline" routerLink="/countries/{{ country.name }}">
+        <button class="border-country-button">{{ country.cca3 }}</button>
+      </a>
+
+      }
+    </div>
+  </div>
+</div>

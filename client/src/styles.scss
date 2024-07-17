@@ -3,6 +3,9 @@
 
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css");
 
+* {
+  font-family: "Nunito Sans";
+}
 body {
   box-sizing: border-box;
   margin: 0;
@@ -71,6 +74,23 @@ $mat-dark-theme: mat.define-theme(
     background-color: #ffffff;
     color: #858585;
   }
+
+  .button {
+    background-color: #ffffff;
+    color: #111517;
+    border: 1px solid #858585;
+  }
+
+  .country-details-text,
+  .country-details-text * {
+    color: #111517;
+  }
+
+  .border-country-button {
+    background-color: #ffffff;
+    color: #111517;
+    border: 1px solid #858585;
+  }
 }
 
 .dark-theme {
@@ -103,10 +123,6 @@ $mat-dark-theme: mat.define-theme(
     border: 1px solid #202c37;
   }
 
-  // .card-flag {
-  //   outline: 1px solid #202c37;
-  // }
-
   .searchbar-input {
     background-color: #f7f7f7;
     color: #111517;
@@ -124,6 +140,23 @@ $mat-dark-theme: mat.define-theme(
   .dropdown-region-menu {
     background-color: #f7f7f7;
     color: #111517;
+  }
+
+  .button {
+    color: #f7f7f7 !important;
+    background-color: #2b3945 !important;
+    border: 1px solid black;
+  }
+
+  .country-details-text,
+  .country-details-text * {
+    color: #f7f7f7;
+  }
+
+  .border-country-button {
+    color: #f7f7f7;
+    background-color: #2b3945;
+    border: 1px solid black;
   }
 }
 
@@ -183,7 +216,7 @@ $mat-dark-theme: mat.define-theme(
 .card {
   height: 370px;
   width: 300px;
-  margin: 1rem;
+  margin: 1rem 0;
   padding: 0;
   border-radius: 5px;
   box-sizing: border-box;
@@ -202,4 +235,58 @@ $mat-dark-theme: mat.define-theme(
 .card-title {
   text-align: center;
   font-weight: bold;
+}
+
+.button {
+  width: 120px;
+  height: 40px;
+  padding: 0.5rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.button-icon {
+  margin-right: 0.5rem;
+}
+
+.country-details-container {
+  width: 100%;
+  padding: 2rem 0;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  min-height: 75vh;
+}
+
+.country-details-flag-container {
+  width: 40vw;
+  display: flex;
+  align-items: center;
+}
+
+.country-details-img {
+  width: 40vw;
+}
+
+.country-details-info-container {
+  width: 45%;
+}
+
+.country-text-container {
+  padding-top: 3rem;
+}
+
+.border-countries-container {
+  padding-top: 3rem;
+}
+
+.border-country-button {
+  width: 120px;
+  height: 40px;
+  margin: 0.25rem 0.25rem;
+  box-sizing: border-box;
+  border-radius: 5px;
 }
